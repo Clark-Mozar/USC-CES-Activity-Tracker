@@ -13,6 +13,9 @@ Sign in Page
 Student's Homepage with Dropdown Menu
 ![image](https://github.com/Clark-Mozar/USC-CES-Activity-Tracker/assets/135498095/aad91998-9475-4df3-9577-1d5f2e69d711)
 
+Student's Homepage with CES Points Dropdown Window
+![image](https://github.com/Clark-Mozar/USC-CES-Activity-Tracker/assets/135498095/3b9c3efa-2b6e-4c1b-a5d1-43d8045b7b8b)
+
 Calendar Page
 ![image](https://github.com/Clark-Mozar/USC-CES-Activity-Tracker/assets/135498095/b69f1878-964e-4c15-a0fe-9372be5adce6)
 
